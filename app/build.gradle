@@ -29,7 +29,7 @@ dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jre7:$kotlin_version"
     compile 'com.android.support:appcompat-v7:25.3.0'
     compile 'com.android.support.constraint:constraint-layout:1.0.0-beta4'
-    compile "com.evernote:android-state:1.1.0"
-    kapt "com.evernote:android-state-processor:1.1.0"
+    compile "com.evernote:android-state:1.1.4"
+    kapt "com.evernote:android-state-processor:1.1.4"
     testCompile 'junit:junit:4.12'
 }
